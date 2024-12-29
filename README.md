@@ -8,4 +8,6 @@ This project was completed as part of a take-home exam. The aim is to develop a 
 4. Test the neural network and compare its performance with that of a logistic regression and XGBoost.
 5. Conduct PCA to derive the number of "meaningful components" to the analysis and plot the classification errors of all three models to capture the bias vs. variance trade-off.
 
-A PDF with the proposed methodology and the final answer - as subbmitted - is also included in the repository.
+--------
+
+A PDF with the proposed methodology and the final answer - as subbmitted to the examinars - is also included in the repository.
