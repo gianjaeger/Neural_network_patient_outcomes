@@ -1,0 +1,8 @@
+ucimlrepo
+pandas¨
+seaborn
+tensorboard
+matplotlib
+scikit-learn
+torch
+xgboost
