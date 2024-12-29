@@ -1,4 +1,4 @@
-# Neural_network_patient_outcomes
+# Neural network for predicting patient outcomes
 This project was completed as part of a take-home exam. The aim is to develop a neural network for binary classification of patient outcomes. The exam, titled "Introduction to Data Science and Machine Learning in Python," consisted of three parts, and this project was completed as a response to the third part. It covers content taught by Chris Russel in the class "Machine Learning."
 
 **The project approaches the problem as follows:**
