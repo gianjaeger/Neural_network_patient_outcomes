@@ -10,4 +10,5 @@ This project was completed as part of a take-home exam. The aim is to develop a 
 
 --------
 
-A PDF with the proposed methodology and the final answer - as subbmitted to the examinars - is also included in the repository.
+A PDF with the proposed methodology and the final answer - as submitted to the examiners - is also included in the repository.
+
