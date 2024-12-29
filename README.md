@@ -3,11 +3,11 @@ This project was completed as part of a take-home exam. The aim is to develop a 
 
 **The project approaches the problem as follows:**
 
-Delete columns with more than 50% of values missing and then iteratively impute missing data points with a random forest regressor to accommodate non-linear relationships and different variable types.
-Conduct random search to derive the most effective neural network architecture.
-Train a neural network with the parameters defined under random search and run it on the validation data.
-Test the neural network and compare its performance with that of a logistic regression and XGBoost.
-Conduct PCA to derive the number of "meaningful components" for the analysis and plot the classification errors of all three models to capture the bias vs. variance trade-off.
+1. Delete columns with more than 50% of values missing and then iteratively impute missing data points with a random forest regressor to accommodate non-linear relationships and different variable types.
+2. Conduct random search to derive the most effective neural network architecture.
+3. Train a neural network with the parameters defined under random search and run it on the validation data.
+4. Test the neural network and compare its performance with that of a logistic regression and XGBoost.
+5. Conduct PCA to derive the number of "meaningful components" for the analysis and plot the classification errors of all three models to capture the bias vs. variance trade-off.
 
 --------
 
